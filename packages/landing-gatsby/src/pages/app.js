@@ -57,7 +57,7 @@ export default () => {
   return (
     <ThemeProvider theme={appTheme}>
       <Fragment>
-        <SEO title="App | A react next landing page" />
+        <SEO title="Cirrus" />
         <Modal />
         <ResetCSS />
         <GlobalStyle />

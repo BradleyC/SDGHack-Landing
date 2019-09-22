@@ -45,7 +45,7 @@ const BannerSection = () => {
       <ContentWrapper>
         <TextArea>
           <HighlightedText className="highlighted_text">
-            <strong>FACT</strong> Mother Earth is on fire. If we lose 40% of our forests, we lose fresh water.
+            <strong>FACT</strong> 1 in 4 humans faces an imminent water crisis.
             <Icon icon={chevronRight} />
           </HighlightedText>
           <Heading
