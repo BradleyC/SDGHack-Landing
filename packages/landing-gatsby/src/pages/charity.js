@@ -41,21 +41,17 @@ export default () => {
           <DrawerProvider>
             <DrawerSection />
           </DrawerProvider>
-          <ContentWrapper>
+          <ContentWrapper> 
             <BannerSection />
-            <FeatureSection />
-            <BranchSection />
             <WorkSection />
+            <FeatureSection />
             <MilestoneBlock />
+            <BranchSection />
             <HumanityBlock />
-            <PromotionBlock />
-            <DonateSection />
             <MapSection />
-            <FundraiserSection />
-            <BlogSection />
-            <ClientBlock />
+
+  
           </ContentWrapper>
-          <Footer />
         </CharityWrapper>
         {/* End of charity wrapper section */}
       </Fragment>

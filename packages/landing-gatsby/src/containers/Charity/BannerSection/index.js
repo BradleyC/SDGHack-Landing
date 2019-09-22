@@ -45,25 +45,23 @@ const BannerSection = () => {
       <ContentWrapper>
         <TextArea>
           <HighlightedText className="highlighted_text">
-            <strong>NEWS</strong> 1 year. 100 Forever Families.
+            <strong>FACT</strong> Mother Earth is on fire. If we lose 40% of our forests, we lose fresh water.
             <Icon icon={chevronRight} />
           </HighlightedText>
           <Heading
-            content="Bring a smile to
-          Their faces."
+            content="Every drop counts."
           />
           <Heading
             as="h4"
-            content="A new way of giving back to 
-            your loved charities."
+            content="Save the world by saving money."
           />
           <Text
-            content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            content="We're bringing you together with your favorite brands and local utilities to earn rewards you can redeem for your favorite products. 
           "
           />
           <Link className="learn__more-btn" to="/charity">
             <span className="hyphen" />
-            <span className="btn_text">Explore Our Project</span>
+            <span className="btn_text">Start earning Drops (DRP)</span>
           </Link>
         </TextArea>
         <ImageArea>

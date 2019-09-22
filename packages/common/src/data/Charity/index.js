@@ -60,10 +60,10 @@ export const menuItems = [
 /* ------------------------------------ */
 // Banner section data
 /* ------------------------------------ */
-import bannerSlide1 from 'common/src/assets/image/charity/banner/slide1.png';
-import bannerSlide2 from 'common/src/assets/image/charity/banner/slide2.png';
-import bannerSlide3 from 'common/src/assets/image/charity/banner/slide3.png';
-import bannerSlide4 from 'common/src/assets/image/charity/banner/slide4.jpg';
+import bannerSlide1 from 'common/src/assets/image/charity/banner/slide1.jpg';
+import bannerSlide2 from 'common/src/assets/image/charity/banner/slide2.jpg';
+import bannerSlide3 from 'common/src/assets/image/charity/banner/slide3.jpg';
+
 
 export const bannerSlides = [
   {
@@ -77,11 +77,7 @@ export const bannerSlides = [
   {
     id: 3,
     thumb_url: bannerSlide3,
-  },
-  {
-    id: 4,
-    thumb_url: bannerSlide4,
-  },
+  }
 ];
 
 /* ------------------------------------ */
@@ -142,11 +138,11 @@ export const featureData = {
 /* ------------------------------------ */
 // Branch section data
 /* ------------------------------------ */
-import thumbImage from 'common/src/assets/image/charity/branch/image.png';
-import thumbImage1 from 'common/src/assets/image/charity/branch/image1.png';
-import thumbImage2 from 'common/src/assets/image/charity/branch/image2.png';
-import thumbImage3 from 'common/src/assets/image/charity/branch/image3.png';
-import thumbImage4 from 'common/src/assets/image/charity/branch/image4.png';
+import thumbImage from 'common/src/assets/image/charity/branch/image.jpg';
+import thumbImage1 from 'common/src/assets/image/charity/branch/image1.jpg';
+import thumbImage2 from 'common/src/assets/image/charity/branch/image2.jpg';
+import thumbImage3 from 'common/src/assets/image/charity/branch/image3.jpg';
+import thumbImage4 from 'common/src/assets/image/charity/branch/image4.jpg';
 import thumbImage5 from 'common/src/assets/image/charity/branch/image5.png';
 
 export const branchData = [
@@ -310,9 +306,9 @@ import humanityGlob from 'common/src/assets/image/charity/humanity-glob.png';
 export const humanityData = {
   image: humanityGlob,
   slogan: 'ONLINE SOCIAL FUNDRAISING',
-  title: 'We need your help to promotr humanity',
+  title: 'We need your help to educate humanity',
   text:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    'Saving the world is no easy task and it starts with you. Take our education modules and pass the test to earn bonus Drops (DRP).',
   lists: [
     {
       id: 1,

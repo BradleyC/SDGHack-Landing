@@ -15,7 +15,7 @@ const MapSection = () => {
     <SectionWrapper>
       <Container width="1200px">
         <SectionHeader>
-          <Heading content="How Generous Is Your State" />
+          <Heading content="View your global impact." />
           <Text content="Data from January 1 through November 30, 2018" />
         </SectionHeader>
         <ImageWrapper>

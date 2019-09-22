@@ -36,9 +36,9 @@ const MilestoneBlock = () => {
           <Text content={title} />
           <Heading content={amount} />
           <Text content={text} />
-          <a href="#1" className="learn__more-btn">
+          <a href="http://cirrus.com.s3-website-us-east-1.amazonaws.com/#/dashboard" className="learn__more-btn">
             <span className="hyphen" />
-            <span className="btn_text">Meet our Donors</span>
+            <span className="btn_text">See your stats</span>
           </a>
         </MilestoneCard>
       </BlockWrapper>

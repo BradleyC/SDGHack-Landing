@@ -30,7 +30,11 @@ const Drawer = ({
         className={addAllClasses.join(' ')}
         {...props}
       >
-        <div className="reusecore-drawer__close" onClick={toggleHandler} style={closeButtonStyle}>
+        <div
+          className="reusecore-drawer__close"
+          onClick={toggleHandler}
+          style={closeButtonStyle}
+        >
           {closeButton}
         </div>
         {children}
