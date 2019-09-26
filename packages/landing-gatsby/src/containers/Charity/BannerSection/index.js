@@ -49,11 +49,11 @@ const BannerSection = () => {
             <Icon icon={chevronRight} />
           </HighlightedText>
           <Heading
-            content="Every drop counts."
+            content="Every drop(DRPs) counts."
           />
           <Heading
             as="h4"
-            content="Save the world by saving money."
+            content="Save the world"
           />
           <Text
             content="We're bringing you together with your favorite brands and local utilities to earn rewards you can redeem for your favorite products. 
