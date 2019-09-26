@@ -77,7 +77,7 @@
     {
       "id": 1,
       "menuItem": "Ariel",
-      "image": "../../assets/image/charity/branch/PnGProduct1.jpg",
+      "image": "../../assets/image/charity/branch/PnGProduct1.png",
       "slogan": "Ariel",
       "title": "Ariel",
       "description": "The Ariel Ambition is to re-invent a better clean to consume 50% less resources in key impact areas such as energy and water.",
@@ -107,7 +107,7 @@
     {
       "id": 4,
       "menuItem": "CSDW",
-      "image": "../../assets/image/charity/branch/image3.jpg",
+      "image": "../../assets/image/charity/branch/CSDW.jpg",
       "slogan": "Children's Safe Drinking Water",
       "title": "Children's Safe Drinking Water (CDSW)",
       "description": "In a world where nearly a billion people struggle to get clean drinking water, our Children’s Safe Drinking Water (CSDW) Program provides clean water to those who need it most. Our purification packet broke new ground simply by giving them a way to make dirty water drinkable. Each P&G water purification packet treats 10 liters of water by effectively eliminating bacteria, viruses, parasites, and solid materials. In just 30 minutes, a family of five can have clean drinking water for an entire day.",
@@ -117,7 +117,7 @@
     {
       "id": 5,
       "menuItem": "Connect",
-      "image": "../../assets/image/charity/branch/image5.jpg",
+      "image": "../../assets/image/charity/branch/image5.png",
       "slogan": "Connect & Develop",
       "title": "Connect & Develop",
       "description": "Open call for ideas! We want to hear how you’ve changed the game. Our Connect + Develop Program helps us partner with innovators around the world to solve problems for our customers needs.",
