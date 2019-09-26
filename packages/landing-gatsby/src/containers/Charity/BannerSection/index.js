@@ -59,7 +59,7 @@ const BannerSection = () => {
             content="We're bringing you together with your favorite brands and local utilities to earn rewards you can redeem for your favorite products. 
           "
           />
-          <Link className="learn__more-btn" to="http://cirrus.com.s3-website-us-east-1.amazonaws.com/#/dashboard">
+          <Link className="learn__more-btn" to="">
             <span className="hyphen" />
             <span className="btn_text">Start earning Drops (DRP)</span>
           </Link>
