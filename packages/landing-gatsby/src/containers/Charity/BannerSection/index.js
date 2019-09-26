@@ -49,7 +49,7 @@ const BannerSection = () => {
             <Icon icon={chevronRight} />
           </HighlightedText>
           <Heading
-            content="Every drop(DRPs) counts."
+            content="Every drop counts."
           />
           <Heading
             as="h4"
