@@ -13,11 +13,11 @@ const Navbar = () => {
   return (
     <NavbarWrapper className="navbar">
       <Container fullWidth={true}>
-        <Link className="logo" to="/charity">
+        <Link className="logo" to="/">
           <Image style={{height:"60px"}} src={logoImage} alt="Charity React Next Landing" />
         </Link>
         <MenuWrapper>
-          <AnchorLink className="smooth_scroll" href="#donate" offset={81}>
+          <AnchorLink className="smooth_scroll" href="#branch" offset={81}>
             Redeem
           </AnchorLink>
           <Button>

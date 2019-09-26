@@ -1,38 +1,23 @@
 {
   "menuItems": [
     {
-      "label": "Feature",
-      "path": "#feature",
-      "offset": "81"
-    },
-    {
-      "label": "Our Branch",
-      "path": "#branch",
-      "offset": "100"
-    },
-    {
-      "label": "How We Works",
+      "label": "Mission",
       "path": "#work",
       "offset": "81"
     },
     {
-      "label": "Our Milestone",
+      "label": "Ecosystem",
+      "path": "#feature",
+      "offset": "81"
+    },
+    {
+      "label": "Marketplace",
+      "path": "#branch",
+      "offset": "100"
+    },
+    {
+      "label": "Check my stats",
       "path": "#milestone",
-      "offset": "81"
-    }, 
-    {
-      "label": "Donate Us",
-      "path": "#donate",
-      "offset": "81"
-    },
-    {
-      "label": "Fundraisers",
-      "path": "#fundraisers",
-      "offset": "81"
-    },
-    {
-      "label": "Our Blog",
-      "path": "#blog",
       "offset": "81"
     }
   ],
