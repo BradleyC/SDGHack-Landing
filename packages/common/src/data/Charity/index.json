@@ -11,14 +11,14 @@
       "offset": "81"
     },
     {
-      "label": "Marketplace",
-      "path": "#branch",
-      "offset": "100"
-    },
-    {
       "label": "Check my stats",
       "path": "#milestone",
       "offset": "81"
+    },
+    {
+      "label": "Marketplace",
+      "path": "#branch",
+      "offset": "100"
     }
   ],
   "bannerSlides": [
