@@ -56,8 +56,9 @@ const BannerSection = () => {
             content="Save the world"
           />
           <Text
-            content="We're bringing you together with your favorite brands and local utilities to earn rewards you can redeem for your favorite products. 
-          "
+            content="The world’s oceans and freshwater resources underpin virtually every activity that is essential to human health and well-being, ranging from agriculture to cleaning, drinking, and industrial manufacturing. As a result the challenge sustaining clean and safe water resources pose the biggest risk to human well-being, global peace and security worldwide. 
+
+            You can make a difference. Cirrus is here to show you how!"
           />
           <Link className="learn__more-btn" to="">
             <span className="hyphen" />

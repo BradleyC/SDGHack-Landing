@@ -306,9 +306,9 @@ import humanityGlob from 'common/src/assets/image/charity/humanity-glob.png';
 export const humanityData = {
   image: humanityGlob,
   slogan: 'ONLINE SOCIAL FUNDRAISING',
-  title: 'We need your help to educate humanity',
+  title: 'Cirrus Education Platform Coming Soon',
   text:
-    'Saving the world is no easy task and it starts with you. Take our education modules and pass the test to earn bonus Drops (DRP).',
+    '',
   lists: [
     {
       id: 1,

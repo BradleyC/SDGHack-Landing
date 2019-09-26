@@ -32,8 +32,8 @@
     }
   ],
   "featureData": {
-    "title": "Join the Cirrus Ecosystem to save the world.",
-    "slogan": "One small drop can turn into a ripple in time.",
+    "title": "Join the Cirrus Ecosystem.",
+    "slogan": "",
     "features": [
       {
         "id": 1,
@@ -76,55 +76,75 @@
   "branchData": [
     {
       "id": 1,
-      "menuItem": "Laundry",
-      "image": "../../assets/image/charity/branch/image1.jpg",
-      "slogan": "Tide Pods",
-      "title": "Tide Pods laundry tech saves water.",
-      "description": "Our engineers are helping your high-efficiency washing machines transition easily from rinse to spin saving an estimated 260 gallons a year per household.",
+      "menuItem": "Ariel",
+      "image": "../../assets/image/charity/branch/PnGProduct1.jpg",
+      "slogan": "Ariel",
+      "title": "Ariel",
+      "description": "The Ariel Ambition is to re-invent a better clean to consume 50% less resources in key impact areas such as energy and water.",
       "linkUrl": "#1",
       "linkText": "Redeem for drops"
     },
     {
       "id": 2,
-      "menuItem": "Home",
+      "menuItem": "Tide",
+      "image": "../../assets/image/charity/branch/image1.jpg",
+      "slogan": "Tide",
+      "title": "Tide",
+      "description": "Tide HE Turbo saves an estimated 260 gallons a year per household by helping high-efficiency washing machines rinse to spin easily.",
+      "linkUrl": "#1",
+      "linkText": "Redeem for drops"
+    },
+    {
+      "id": 3,
+      "menuItem": "Swiffer",
       "image": "../../assets/image/charity/branch/image2.jpg",
-      "slogan": "Swiffer",
-      "title": "Your old mop is so 15th century.",
-      "description": "Households using Swiffer WetJet can save more than 70 gallons of water per year.",
+      "slogan": "Household Swiffer",
+      "title": "Swiffer",
+      "description": "Households using Swiffer WetJet can save more than 70 gallons of water per year compared to the standard mop and bucket.",
       "linkUrl": "#1",
       "linkText": "Redeem for drops"
     },
     {
       "id": 4,
-      "menuItem": "Smart home",
+      "menuItem": "CSDW",
       "image": "../../assets/image/charity/branch/image3.jpg",
-      "slogan": "LG Power washer",
-      "title": "See you in the future.",
-      "description": "DRPs are ERC20 tokens so you can spend them with brands that adopt blockchain tech.",
+      "slogan": "Children's Safe Drinking Water",
+      "title": "Children's Safe Drinking Water (CDSW)",
+      "description": "In a world where nearly a billion people struggle to get clean drinking water, our Children’s Safe Drinking Water (CSDW) Program provides clean water to those who need it most. Our purification packet broke new ground simply by giving them a way to make dirty water drinkable. Each P&G water purification packet treats 10 liters of water by effectively eliminating bacteria, viruses, parasites, and solid materials. In just 30 minutes, a family of five can have clean drinking water for an entire day.",
+      "linkUrl": "#1",
+      "linkText": "Redeem for drops"
+    },
+    {
+      "id": 5,
+      "menuItem": "Connect",
+      "image": "../../assets/image/charity/branch/image5.jpg",
+      "slogan": "Connect & Develop",
+      "title": "Connect & Develop",
+      "description": "Open call for ideas! We want to hear how you’ve changed the game. Our Connect + Develop Program helps us partner with innovators around the world to solve problems for our customers needs.",
       "linkUrl": "#1",
       "linkText": "Redeem for drops"
     }
   ],
   "workData": {
     "title": "The stakes are high. The game is saving the world.",
-    "slogan": "Fresh water is the most undervalued commodity in the world. How do we incentivize grandma to save the world for her technologist grandson? ",
+    "slogan": "We're bringing you together with your favorite brands and local utilities to earn tokens, track and learn about your personal water management performance, and redeem DROPS toward discounts your favorite products",
     "features": [
       {
         "id": 1,
         "icon": "../../assets/image/charity/map-pin.svg",
-        "title": "Earn locally",
+        "title": "Earn",
         "description": "Play challenges put together by your favorite brands and local community utilities to win drops."
       },
       {
         "id": 2,
         "icon": "../../assets/image/charity/search-icon.svg",
-        "title": "Discover education",
+        "title": "Learn",
         "description": "Learn sustainable water practices with learning modules & take quizzes to earn more drops."
       },
       {
         "id": 3,
         "icon": "../../assets/image/charity/icon-100p.svg",
-        "title": "Get rewarded",
+        "title": "Redeem",
         "description": "Redeem your drops for your favorite products in our marketplace."
       }
     ]
@@ -159,20 +179,20 @@
   "humanityData": {
     "image": "../../assets/image/charity/humanity-glob.png",
     "slogan": "Education for all.",
-    "title": "We need your help to educate humanity",
-    "text": "Saving the world is no easy task and it starts with you. Take our education modules and pass the test to earn bonus Drops (DRP).",
+    "title": "Cirrus Education Platform Coming Soon",
+    "text": "",
     "lists": [
       {
         "id": 1,
-        "text": "Promote sustainable water usage"
+        "text": ""
       },
       {
         "id": 2,
-        "text": "Ensure a future tomorrow"
+        "text": ""
       },
       {
         "id": 3,
-        "text": "create opportunities for your community"
+        "text": ""
       }
     ]
   },
