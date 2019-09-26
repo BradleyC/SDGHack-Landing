@@ -44,8 +44,8 @@ export default () => {
           <ContentWrapper> 
             <BannerSection />
             <WorkSection />
-            <FeatureSection />
             <MilestoneBlock />
+            <FeatureSection />
             <BranchSection />
             <HumanityBlock />
             <MapSection />

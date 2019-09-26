@@ -61,7 +61,7 @@ const BannerSection = () => {
           />
           <Link className="learn__more-btn" to="">
             <span className="hyphen" />
-            <span className="btn_text">Start earning Drops (DRP)</span>
+            <span className="btn_text"><a href="http://cirrus.com.s3-website-us-east-1.amazonaws.com/#/dashboard">Start earning Drops (DRP)</a></span>
           </Link>
         </TextArea>
         <ImageArea>
